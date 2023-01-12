@@ -7,6 +7,7 @@ import { Link } from "react-router-dom";
 import Aos from "aos";
 import * as BS from "react-bootstrap";
 
+
 const Assignments = () => {
   useEffect(() => {
     Aos.init({});

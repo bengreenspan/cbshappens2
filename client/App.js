@@ -7,6 +7,11 @@ import { ThemeProvider } from '@mui/material';
 import Theme from './Theme';
 import { Divider } from '@mui/material';
 import ScrollToTop from './components/ScrollToTop';
+import ReactGA from "react-ga"
+
+const TRACKING_ID = "G-BSL2182TTZ"
+
+ReactGA.initialize(TRACKING_ID);
 
 const App = () => {
   return (
