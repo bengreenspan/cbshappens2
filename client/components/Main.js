@@ -29,8 +29,8 @@ export const Main = () => (
       <FirstContact />
     </div>
     <EmailForm />
-    <CalendarOver />
-    {/* <WeekCalendar /> */}
+    {/* <CalendarOver /> */}
+    <WeekCalendar />
     <div className="gray">
 
       {/* <Customers /> */}
