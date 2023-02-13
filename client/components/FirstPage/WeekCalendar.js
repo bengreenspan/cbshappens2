@@ -686,7 +686,7 @@ const WeekCalendar = () => {
                         <h4 style={{ fontWeight: 100 }}>12:30pm – 1:30pm</h4>
                       </div>
 
-                      <hr />
+                      {/* <hr /> */}
 
                       <div className="links">
                         <a
