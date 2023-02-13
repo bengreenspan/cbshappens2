@@ -743,6 +743,27 @@ const WeekCalendar = () => {
                           <a
                             target="_blank"
                             href="
+                            https://groups.gsb.columbia.edu/TamerCenter/rsvp_boot?id=38915
+                          "
+                          >
+
+Social Impact Alumni Career Panel + Networking Reception
+                            <p style={{ fontStyle: "italic", fontWeight: 100 }}>
+                            by The Tamer Center for Social Enterprise
+                            </p>
+                          </a>
+
+                          <h4 style={{ fontWeight: 100 }}>
+                            Geffen 520, 6:00pm – 7:00pm (75+ registered)
+                          </h4>
+                        </div>
+
+                        <br />
+
+                        <div className="links">
+                          <a
+                            target="_blank"
+                            href="
                           https://groups.gsb.columbia.edu/LABA/rsvp_boot?id=41797
                           "
                           >
