@@ -412,7 +412,7 @@ https://groups.gsb.columbia.edu/RESI/rsvp_boot?id=43093
                         </a>
 
                         <h4 style={{ fontWeight: 100 }}>
-                          Geffen
+                          Geffen 
                           {/* Kravis */}
                           420, 12:15pm – 1:45pm (75+ registered)
                         </h4>
