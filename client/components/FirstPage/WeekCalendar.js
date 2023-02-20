@@ -412,9 +412,9 @@ https://groups.gsb.columbia.edu/RESI/rsvp_boot?id=43093
                         </a>
 
                         <h4 style={{ fontWeight: 100 }}>
-                          Geffen 
+                          Geffen 420,
                           {/* Kravis */}
-                          420, 12:15pm – 1:45pm (75+ registered)
+                       12:15pm – 1:45pm (75+ registered)
                         </h4>
                       </div>
 
@@ -456,9 +456,9 @@ https://groups.gsb.columbia.edu/RESI/rsvp_boot?id=43093
                         </a>
 
                         <h4 style={{ fontWeight: 100 }}>
-                          Geffen
+                          Geffen 640,
                           {/* Kravis */}
-                          640, 12:30pm – 1:30pm (150+ registered)
+                       12:30pm – 1:30pm (150+ registered)
                         </h4>
                       </div>
 
@@ -891,14 +891,14 @@ https://groups.gsb.columbia.edu/RESI/rsvp_boot?id=43093
                           https://groups.gsb.columbia.edu/PEC/rsvp_boot?id=43237
                           "
                         >
-      Pillars of Wall Street Modeling Training 
+                          Pillars of Wall Street Modeling Training
                           <p style={{ fontStyle: "italic", fontWeight: 100 }}>
-                          by Private Equity Club
+                            by Private Equity Club
                           </p>
                         </a>
 
                         <h4 style={{ fontWeight: 100 }}>
-                        Online Event, All Weekend
+                          Online Event, All Weekend
                         </h4>
                       </div>
 
@@ -911,18 +911,18 @@ https://groups.gsb.columbia.edu/RESI/rsvp_boot?id=43093
                           https://groups.gsb.columbia.edu/MILS/rsvp_boot?id=37974
                           "
                         >
- Real Estate Career Forum
+                          Real Estate Career Forum
                           <p style={{ fontStyle: "italic", fontWeight: 100 }}>
-                          by The Paul Milstein Center for Real Estate
+                            by The Paul Milstein Center for Real Estate
                           </p>
                         </a>
 
                         <h4 style={{ fontWeight: 100 }}>
-                        3rd Floor Geffen, 9:45am- 12pm (75+ attending)
+                          3rd Floor Geffen, 9:45am- 12pm (75+ attending)
                         </h4>
                       </div>
 
-                                   <br />
+                      <br />
 
                       <div className="links">
                         <a
@@ -931,40 +931,37 @@ https://groups.gsb.columbia.edu/RESI/rsvp_boot?id=43093
                           https://groups.gsb.columbia.edu/sba/rsvp_boot?id=42544
                           "
                         >
-SBA / BSMU Black History Month [PPIL]
+                          SBA / BSMU Black History Month [PPIL]
                           <p style={{ fontStyle: "italic", fontWeight: 100 }}>
-                          by Sports Business Association
+                            by Sports Business Association
                           </p>
                         </a>
 
                         <h4 style={{ fontWeight: 100 }}>
-                        Geffen 390, 12:00pm - 2:00pm (75+ attending)
+                          Geffen 390, 12:00pm - 2:00pm (75+ attending)
                         </h4>
                       </div>
 
                       <br />
 
-<div className="links">
-  <a
-    target="_blank"
-    href="
+                      <div className="links">
+                        <a
+                          target="_blank"
+                          href="
     https://groups.gsb.columbia.edu/RLGC/rsvp_boot?id=43462
     "
-  >
-Conference Welcome Reception
-    <p style={{ fontStyle: "italic", fontWeight: 100 }}>
-    by Retail and Luxury Goods Club
-    </p>
-  </a>
+                        >
+                          Conference Welcome Reception
+                          <p style={{ fontStyle: "italic", fontWeight: 100 }}>
+                            by Retail and Luxury Goods Club
+                          </p>
+                        </a>
 
-  <h4 style={{ fontWeight: 100 }}>
-  Broadway Bar, Nordstrom, 6:00pm - 8:00pm (50+ attending)
-  </h4>
-</div>
-
-
-
-
+                        <h4 style={{ fontWeight: 100 }}>
+                          Broadway Bar, Nordstrom, 6:00pm - 8:00pm (50+
+                          attending)
+                        </h4>
+                      </div>
                     </div>
                   </BS.Col>
                   <BS.Col lg={4} md={6} sm={12} xs={12}>
@@ -979,7 +976,7 @@ Conference Welcome Reception
                         <span id="saturday"></span>
                         Saturday & Sunday
                       </h1>
- 
+
                       <br />
                       <div className="links">
                         <a
@@ -988,17 +985,18 @@ Conference Welcome Reception
                           https://groups.gsb.columbia.edu/RLGC/rsvp_boot?id=39622
                           "
                         >
-           Retail and Luxury Goods Club Conference: Retail Reinvented
+                          Retail and Luxury Goods Club Conference: Retail
+                          Reinvented
                           <p style={{ fontStyle: "italic", fontWeight: 100 }}>
-                          by Retail and Luxury Goods Club
+                            by Retail and Luxury Goods Club
                           </p>
                         </a>
 
                         <h4 style={{ fontWeight: 100 }}>
-                        Geffen 3rd floor, (250+ registered)
+                          Geffen 3rd floor, (250+ registered)
                         </h4>
                       </div>
-{/*
+                      {/*
                       <br />
                       <div className="links">
                         <a
