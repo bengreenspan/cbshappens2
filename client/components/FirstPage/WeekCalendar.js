@@ -127,7 +127,7 @@ https://groups.gsb.columbia.edu/VCC/rsvp_boot?id=43338
                             </h4>
                             <hr />
                           </div>
-                          <br />
+                          {/* <br /> */}
 
                           <div className="links">
                             <a
@@ -147,7 +147,7 @@ https://groups.gsb.columbia.edu/VCC/rsvp_boot?id=43338
                             <h4 style={{ fontWeight: 100 }}>
                               Geffen 590, 12:15pm – 1:45pm (100+ attending)
                             </h4>
-                            <hr />
+                            {/* <hr /> */}
                           </div>
                           <br />
                         </div>

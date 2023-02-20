@@ -11,6 +11,8 @@ import Tips from "./components/Tips";
 import NotFound from "./components/NotFound";
 import Clubs from "./components/Clubs";
 import MonthlyCalendar from "./components/MonthlyCalendar";
+import Unsub from "./components/Unsub";
+
 
 import { me } from "./store";
 
@@ -42,6 +44,7 @@ class Routes extends Component {
             <Route path="/Tips" component={Tips} />
             <Route path="/Clubs" component={Clubs} />
             <Route path="/Calendar" component={MonthlyCalendar} />
+            <Route path="/Unsub" component={Unsub} />
             <Route path="/*">
               <NotFound />{" "}
             </Route>
