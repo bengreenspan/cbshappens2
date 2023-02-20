@@ -125,9 +125,9 @@ https://groups.gsb.columbia.edu/VCC/rsvp_boot?id=43338
                             <h4 style={{ fontWeight: 100 }}>
                               Online Event, 12:00pm – 1:00pm (100+ attending)
                             </h4>
-                            <hr />
+                            {/* <hr /> */}
                           </div>
-                          {/* <br /> */}
+                          <br />
 
                           <div className="links">
                             <a
