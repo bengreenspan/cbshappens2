@@ -99,9 +99,9 @@ const WeekCalendar = () => {
                             </a>
 
                             <h4 style={{ fontWeight: 100 }}>
-                              Kravis
+                              Kravis 690,
                               {/* Geffen */}
-                              690, 12:00pm – 1:45pm
+                          12:00pm – 1:45pm
                             </h4>
                             {/* <hr /> */}
                           </div>
@@ -506,9 +506,9 @@ https://groups.gsb.columbia.edu/RESI/rsvp_boot?id=43093
                             </p>
                           </a>
                           <h4 style={{ fontWeight: 100 }}>
-                            Kravis
+                            Kravis 1090,
                             {/* Geffen */}
-                            1090, 3:30pm – 5:00pm
+              3:30pm – 5:00pm
                           </h4>
                         </div>
 
@@ -527,9 +527,9 @@ https://groups.gsb.columbia.edu/RESI/rsvp_boot?id=43093
                           </a>
 
                           <h4 style={{ fontWeight: 100 }}>
-                            Kravis
+                            Kravis 201,
                             {/* Geffen */}
-                            201, 5:45pm – 7:30pm
+                        5:45pm – 7:30pm
                           </h4>
                         </div>
 
