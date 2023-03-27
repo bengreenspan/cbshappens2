@@ -62,7 +62,7 @@ const WeekCalendar = () => {
             >
               <div className="fontbold">
                 Weekly Events
-                <h4>03/20 - 03/26</h4>
+                <h4>03/27 - 04/01</h4>
                 <br />
                 <BS.Row>
                   <BS.Col lg={4} md={6} sm={12} xs={12}>
