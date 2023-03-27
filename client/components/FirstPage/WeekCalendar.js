@@ -869,7 +869,7 @@ BBSA Elevate Conference 2023
                       </h1>
 
                       <br />
-                      <div className="links">
+                      {/* <div className="links">
                         <a
                           target="_blank"
                           href="
@@ -885,10 +885,10 @@ BBSA Elevate Conference 2023
                         <h4 style={{ fontWeight: 100 }}>
                           On Campus, Saturday (200+ registered)
                         </h4>
-                      </div>
+                      </div> */}
 
                       <br />
-                      <div className="links">
+                      {/* <div className="links">
                         <a
                           target="_blank"
                           href="
@@ -904,10 +904,10 @@ BBSA Elevate Conference 2023
                         <h4 style={{ fontWeight: 100 }}>
                           On Campus, Saturday (100+ registered)
                         </h4>
-                      </div>
+                      </div> */}
 
                       <br />
-                      <div className="links">
+                      {/* <div className="links">
                         <a
                           target="_blank"
                           href="
@@ -923,7 +923,7 @@ BBSA Elevate Conference 2023
                         <h4 style={{ fontWeight: 100 }}>
                           Corner Social, Sunday, 11:45am – 2:00pm
                         </h4>
-                      </div>
+                      </div> */}
 
                       <br />
                     </div>
