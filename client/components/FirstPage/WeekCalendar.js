@@ -89,27 +89,153 @@ const WeekCalendar = () => {
                             <a
                               target="_blank"
                               href="
-                              https://groups.gsb.columbia.edu/FLC/rsvp_boot?id=44549
+                              https://groups.gsb.columbia.edu/CSIMA/rsvp_boot?id=43946
                             "
                             >
-                              Financial Literacy Club Volunteering Session
+                              [Investing in Asia series] Conversation with
+                              Richard H. Lawrence, Jr Overlook Investments
                               <p
                                 style={{ fontStyle: "italic", fontWeight: 100 }}
                               >
-                                by Financial Literacy Club
+                                by Columbia Student Investment Management
+                                Association
                               </p>
                             </a>
 
                             <h4 style={{ fontWeight: 100 }}>
                               {/* Kravis 820, &nbsp; */}
-                              {/* Geffen 540, */}
-                              12:00pm – 1:45pm
+                              Online, 12:00pm – 1:15pm (100+ attending)
                             </h4>
-                            {/* <hr /> */}
                           </div>
+
+                          <br />
+                          <div className="links">
+                            <a
+                              target="_blank"
+                              href="
+                              https://groups.gsb.columbia.edu/TamerCenter/rsvp_boot?id=39439
+                            "
+                            >
+                              Social Impact Week, Inclusive Entrepreneurship
+                              Fellowship Panel
+                              <p
+                                style={{ fontStyle: "italic", fontWeight: 100 }}
+                              >
+                                by The Tamer Center for Social Enterprise
+                              </p>
+                            </a>
+
+                            <h4 style={{ fontWeight: 100 }}>
+                              Kravis 640 12:00pm – 1:45pm
+                            </h4>
+                          </div>
+
+                          <br />
+                          <div className="links">
+                            <a
+                              target="_blank"
+                              href="
+                              https://groups.gsb.columbia.edu/CMC/rsvp_boot?id=42437
+                            "
+                            >
+                              Immigration Attorney Workshop: US Visa Options
+                              Post-Graduation
+                              <p
+                                style={{ fontStyle: "italic", fontWeight: 100 }}
+                              >
+                                by Career Management Center
+                              </p>
+                            </a>
+
+                            <h4 style={{ fontWeight: 100 }}>
+                              Geffen 390, 12:15pm – 1:45pm
+                            </h4>
+                          </div>
+
+                          <br />
+                          <div className="links">
+                            <a
+                              target="_blank"
+                              href="
+                              https://groups.gsb.columbia.edu/BERN/rsvp_boot?id=43228
+                            "
+                            >
+                              Harnessing Your Personal Influence as a Student
+                              Leader [PPIL]
+                              <p
+                                style={{ fontStyle: "italic", fontWeight: 100 }}
+                              >
+                                by Sanford C. Bernstein & Co. Center for
+                                Leadership and Ethics
+                              </p>
+                            </a>
+
+                            <h4 style={{ fontWeight: 100 }}>
+                              Geffen 490, 12:15pm – 1:30pm
+                            </h4>
+                          </div>
+
+                          <br />
+                        </div>
+                        <div
+                          className="afternoon"
+                          data-aos="fade-left"
+                          data-aos-duration="1000"
+                        >
+                          <h2 style={{ textDecoration: "none" }}>
+                            Afterclass Happenings:
+                          </h2>
+
+                          <div className="links">
+                            <a
+                              target="_blank"
+                              href="
+                          https://groups.gsb.columbia.edu/MAC/rsvp_boot?id=43678
+                          "
+                            >
+                              How to Write Winning Emails–A Workshop
+                              <p
+                                style={{ fontStyle: "italic", fontWeight: 100 }}
+                              >
+                                by Marketing Association of Columbia
+                              </p>
+                            </a>
+
+                            <h4 style={{ fontWeight: 100 }}>
+                              {/* Kravis 670, */}
+                              Geffen 440, 6:00pm – 7:00pm
+                              {/* (250+ attending) */}
+                            </h4>
+                          </div>
+
+                          <br />
+                          <div className="links">
+                            <a
+                              target="_blank"
+                              href="
+                              https://groups.gsb.columbia.edu/CWIB/rsvp_boot?id=41912
+                          "
+                            >
+                              Robin Arzón: CWIB Women's History Month Keynote &
+                              Community Reception
+                              <p
+                                style={{ fontStyle: "italic", fontWeight: 100 }}
+                              >
+                                by Columbia Women in Business (CWIB)
+                              </p>
+                            </a>
+
+                            <h4 style={{ fontWeight: 100 }}>
+                              {/* Kravis 670, */}
+                              Cooperman Commons, 6:30pm – 8:45pm
+                              {/* (250+ attending) */}
+                            </h4>
+                          </div>
+
                           <br />
                         </div>
                       </div>
+
                       <br />
                     </div>
                   </BS.Col>
@@ -134,10 +260,33 @@ const WeekCalendar = () => {
                           <a
                             target="_blank"
                             href="
-                              https://groups.gsb.columbia.edu/osa/rsvp_boot?id=43767
+                            https://groups.gsb.columbia.edu/CETA/rsvp_boot?id=44800
                             "
                           >
-                            Course Match Training and Demonstration
+                            Discussion with Bruce Moszcelt and Trevor Lwin, Blue
+                            Frame Capital Partners
+                            <p style={{ fontStyle: "italic", fontWeight: 100 }}>
+                              by Columbia Entrepreneurship Through Acquisition
+                            </p>
+                          </a>
+
+                          <h4 style={{ fontWeight: 100 }}>
+                            {/* Kravis 820, &nbsp; */}
+                            Kravis 440, 12:00pm – 1:45pm
+                          </h4>
+                          {/* <hr /> */}
+                        </div>
+
+                        <br />
+                        <div className="links">
+                          <a
+                            target="_blank"
+                            href="
+                            https://groups.gsb.columbia.edu/osa/rsvp_boot?id=43637
+                            "
+                          >
+                            Student Leader Turbo Training: Reimbursement &
+                            Contracts Refresher
                             <p style={{ fontStyle: "italic", fontWeight: 100 }}>
                               by Office of Student Affairs
                             </p>
@@ -145,34 +294,112 @@ const WeekCalendar = () => {
 
                           <h4 style={{ fontWeight: 100 }}>
                             {/* Kravis 820, &nbsp; */}
-                            Geffen 620, 12:00pm – 1:45pm (100+ attending)
+                            Geffen 390, 12:00pm – 1:00pm
+                            {/* (100+ attending) */}
                           </h4>
                           {/* <hr /> */}
                         </div>
-                        <br />
 
+                        <br />
                         <div className="links">
                           <a
                             target="_blank"
                             href="
-                              https://groups.gsb.columbia.edu/Esports/rsvp_boot?id=44551
+                            https://groups.gsb.columbia.edu/StudGov/rsvp_boot?id=44449
                             "
                           >
-                            Gaming 101 Session
+                            Bake Sale
                             <p style={{ fontStyle: "italic", fontWeight: 100 }}>
-                              by Esports & Gaming Club
+                              by Student Government Executive Board
                             </p>
                           </a>
 
                           <h4 style={{ fontWeight: 100 }}>
                             {/* Kravis 820, &nbsp; */}
-                            Geffen 570, 12:00pm – 1:00pm
+                            Kravis Lobby, 12:00pm – 1:45pm
                             {/* (100+ attending) */}
                           </h4>
                           {/* <hr /> */}
                         </div>
+
+                        <br />
+                        <div className="links">
+                          <a
+                            target="_blank"
+                            href="
+                            https://groups.gsb.columbia.edu/FinStudies/rsvp_boot?id=43889
+                            "
+                          >
+                            No Free Lunch research seminar featuring Professors
+                            Mark Zurack and Dominic Supera
+                            <p style={{ fontStyle: "italic", fontWeight: 100 }}>
+                              by Program for Financial Studies
+                            </p>
+                          </a>
+
+                          <h4 style={{ fontWeight: 100 }}>
+                            {/* Kravis 820, &nbsp; */}
+                            Geffen 570, 12:15pm – 1:30pm (100+ registered)
+                            {/* (100+ attending) */}
+                          </h4>
+                        </div>
+                        <br />
+                        <div className="links">
+                          <a
+                            target="_blank"
+                            href="
+                            https://groups.gsb.columbia.edu/hlc/rsvp_boot?id=44772
+                            "
+                          >
+                            Health & Wellness: Nutrition Chats
+                            <p style={{ fontStyle: "italic", fontWeight: 100 }}>
+                              by Health & Wellness Club
+                            </p>
+                          </a>
+
+                          <h4 style={{ fontWeight: 100 }}>
+                            Kravis 420,
+                            {/* Geffen 570,  */}
+                            12:30pm – 1:30pm
+                            {/* (100+ attending) */}
+                          </h4>
+                        </div>
+
                         <br />
                       </div>
+
+                      <div
+                        className="afternoon"
+                        data-aos="fade-left"
+                        data-aos-duration="1000"
+                      >
+                        <h2 style={{ textDecoration: "none" }}>
+                          Afterclass Happenings:
+                        </h2>
+
+                        <div className="links">
+                          <a
+                            target="_blank"
+                            href="
+                              https://groups.gsb.columbia.edu/bbsa/rsvp_boot?id=44505
+                          "
+                          >
+                            Film Screening [PPIL]
+                            <p style={{ fontStyle: "italic", fontWeight: 100 }}>
+                              by Black Business Student Association
+                            </p>
+                          </a>
+
+                          <h4 style={{ fontWeight: 100 }}>
+                            {/* Kravis 670, */}
+                            Dodge Hall 511, 7:00pm – 8:30pm
+                            {/* (250+ attending) */}
+                          </h4>
+                        </div>
+
+                        <br />
+                      </div>
+
                       <br />
                     </div>
                   </BS.Col>
@@ -194,18 +421,18 @@ const WeekCalendar = () => {
                         <a
                           target="_blank"
                           href="
-                          https://groups.gsb.columbia.edu/osa/rsvp_boot?id=42935
+                          https://groups.gsb.columbia.edu/MGMT/rsvp_boot?id=44525
                           "
                         >
-                          CBS | well: Paint & Sip [Mocktail Edition]
+                          Technology Strategy Bonus Session - Kakao
                           <p style={{ fontStyle: "italic", fontWeight: 100 }}>
-                            by Office of Student Affairs
+                            by Management
                           </p>
                         </a>
 
                         <h4 style={{ fontWeight: 100 }}>
                           {/* Kravis 820, &nbsp; */}
-                          Geffen 440, 12:00pm – 1:00pm (25+ attending)
+                          12:15pm – 1:45pm (50+ attending)
                         </h4>
                       </div>
 
@@ -215,19 +442,17 @@ const WeekCalendar = () => {
                         <a
                           target="_blank"
                           href="
-                          https://groups.gsb.columbia.edu/XPCM/rsvp_boot?id=41427
+                          https://groups.gsb.columbia.edu/RESI/rsvp_boot?id=41447
                           "
                         >
-                          Introduction to On Campus Recruiting (OCR)
+                          Executives in Residence Lunch and Learn
                           <p style={{ fontStyle: "italic", fontWeight: 100 }}>
-                            by Experienced Professionals Career Management
+                            by Executives in Residence Program
                           </p>
                         </a>
 
                         <h4 style={{ fontWeight: 100 }}>
-                          {/* Kravis 820, &nbsp; */}
-                          {/* Geffen 440,  */}
-                          Virtual Event, 12:30pm – 1:30pm (25+ attending)
+                          Kravis 680, 12:30pm – 1:30pm
                         </h4>
                       </div>
                     </div>
@@ -243,8 +468,45 @@ const WeekCalendar = () => {
                         Afterclass Happenings:
                       </h2>
 
-                
+                      <div className="links">
+                        <a
+                          target="_blank"
+                          href="
+    https://groups.gsb.columbia.edu/TamerCenter/rsvp_boot?id=39441
+    "
+                        >
+                          Social Impact Week, Sustaining World-Class Cultural
+                          Institutions: Strategies from The Met and Whitney
+                          Museums
+                          <p style={{ fontStyle: "italic", fontWeight: 100 }}>
+                            by The Tamer Center for Social Enterprise
+                          </p>
+                        </a>
 
+                        <h4 style={{ fontWeight: 100 }}>
+                          Kravis 820, 6:00pm – 8:00pm
+                        </h4>
+                      </div>
+
+                      <br />
+                      <div className="links">
+                        <a
+                          target="_blank"
+                          href="
+                          https://groups.gsb.columbia.edu/MENA/rsvp_boot?id=43856
+    "
+                        >
+                          MENA x SABA - Ramadan Board Game Night
+                          <p style={{ fontStyle: "italic", fontWeight: 100 }}>
+                            by The Middle East and North Africa Club
+                          </p>
+                        </a>
+
+                        <h4 style={{ fontWeight: 100 }}>
+                          Hex & Co, 8:00pm – 11:00pm
+                        </h4>
+                      </div>
+                      <br />
                       <div className="links">
                         <a
                           target="_blank"
@@ -252,7 +514,7 @@ const WeekCalendar = () => {
                           https://groups.gsb.columbia.edu/RFC/rsvp_boot?id=41626
                           "
                         >
-                          VC Club x Rugby Networking Event
+                          MMA x Rugby Networking Event
                           <p style={{ fontStyle: "italic", fontWeight: 100 }}>
                             by Men's Rugby Football Club
                           </p>
@@ -291,20 +553,19 @@ const WeekCalendar = () => {
                         <a
                           target="_blank"
                           href="
-                          https://groups.gsb.columbia.edu/CSIMA/rsvp_boot?id=43799
+                          https://groups.gsb.columbia.edu/osa/rsvp_boot?id=43784
                           "
                         >
-                          Everything you always wanted to know about hedge
-                          funds, but were afraid to ask
+                          Student Leader Turbo Training: Event Planning Best
+                          Practices
                           <p style={{ fontStyle: "italic", fontWeight: 100 }}>
-                            by Columbia Student Investment Management
-                            Association
+                            by Office of Student Affairs
                           </p>
                         </a>
 
                         <h4 style={{ fontWeight: 100 }}>
                           {/* Kravis 440 */}
-                          Geffen 540, 12:00pm – 1:45pm (100+ registered)
+                          Geffen 420, 12:00pm – 1:00pm
                         </h4>
                       </div>
 
@@ -314,42 +575,21 @@ const WeekCalendar = () => {
                         <a
                           target="_blank"
                           href="
-                          https://groups.gsb.columbia.edu/energy/rsvp_boot?id=42429
+                          https://groups.gsb.columbia.edu/TamerCenter/rsvp_boot?id=39440
                           "
                         >
-                          Energy & Infrastructure Club - Renewable Energy / Tax
-                          Equity Investment Deep Dive
-                          <p style={{ fontStyle: "italic", fontWeight: 100 }}>
-                            by Energy & Infrastructure Club
-                          </p>
-                        </a>
-
-                        <h4 style={{ fontWeight: 100 }}>
-                          Kravis 440,
-                          {/* CMC 7th Floor Geffen,  */}
-                          12:00pm – 1:00pm (75+ registered)
-                        </h4>
-                      </div>
-
-                      <br />
-
-                      <div className="links">
-                        <a
-                          target="_blank"
-                          href="
-                          https://groups.gsb.columbia.edu/TamerCenter/rsvp_boot?id=31846
-                          "
-                        >
-                          Building Inclusive Workplaces: How to Unlock the Value
-                          of Neurodiversity [PPIL]
+                          Social Impact Week, Innovating for Impact: Leaders of
+                          Color, Capital Access, and the Fight for Educational
+                          Equity
                           <p style={{ fontStyle: "italic", fontWeight: 100 }}>
                             by The Tamer Center for Social Enterprise
                           </p>
                         </a>
 
                         <h4 style={{ fontWeight: 100 }}>
-                          Geffen 620, 12:00pm - 1:45pm (200 registered, Waitlist
-                          Only)
+                          Kravis 640,
+                          {/* CMC 7th Floor Geffen,  */}
+                          12:00pm – 1:45pm
                         </h4>
                       </div>
 
@@ -359,40 +599,39 @@ const WeekCalendar = () => {
                         <a
                           target="_blank"
                           href="
-                          https://groups.gsb.columbia.edu/PSA/rsvp_boot?id=43270
+                          https://groups.gsb.columbia.edu/abc/rsvp_boot?id=44366
+                          "
+                        >
+                          Africa Entrepreneurs Highlight: Njavwa Mutambo [PPIL]
+                          <p style={{ fontStyle: "italic", fontWeight: 100 }}>
+                            by Africa Business Club
+                          </p>
+                        </a>
+
+                        <h4 style={{ fontWeight: 100 }}>
+                          Geffen 670, 12:15pm - 1:15pm (50+ attending)
+                        </h4>
+                      </div>
+
+                      <br />
+
+                      <div className="links">
+                        <a
+                          target="_blank"
+                          href="
+                          https://groups.gsb.columbia.edu/CBA/rsvp_boot?id=43771
     "
                         >
-                          Toastmaster Session
+                          CBA Speaker Series: Jake Bullock from CANN
                           <p style={{ fontStyle: "italic", fontWeight: 100 }}>
-                            by Public Speaking Association
+                            by Cannabis Business Association
                           </p>
                         </a>
 
                         <h4 style={{ fontWeight: 100 }}>
-                          Kravis 820,
+                          Kravis 420,
                           {/* Geffen 540,  */}
-                          12:15pm – 1:45pm
-                        </h4>
-                      </div>
-
-                      <br />
-
-                      <div className="links">
-                        <a
-                          target="_blank"
-                          href="
-                          https://groups.gsb.columbia.edu/MILS/rsvp_boot?id=42856
-"
-                        >
-                          Distinguished Speaker: Pamela Thomas
-                          <p style={{ fontStyle: "italic", fontWeight: 100 }}>
-                            by The Paul Milstein Center for Real Estate
-                          </p>
-                        </a>
-
-                        <h4 style={{ fontWeight: 100 }}>
-                          {/* Kravis 820, */}
-                          Geffen 520, 12:30pm – 1:30pm
+                          12:15pm – 1:15pm
                         </h4>
                       </div>
 
@@ -407,25 +646,24 @@ const WeekCalendar = () => {
                           Afterclass Happenings:
                         </h2>
 
-             
-
                         <div className="links">
                           <a
                             target="_blank"
                             href="
-                            https://groups.gsb.columbia.edu/FinStudies/rsvp_boot?id=44490
+                            https://groups.gsb.columbia.edu/TamerCenter/rsvp_boot?id=38488
 "
                           >
-                            Has Systemic Risk Re-Emerged?
+                            Social Impact Week, Social Impact Cluster Auction
+                            Night
                             <p style={{ fontStyle: "italic", fontWeight: 100 }}>
-                              by Program for Financial Studies
+                              by The Tamer Center for Social Enterprise
                             </p>
                           </a>
 
                           <h4 style={{ fontWeight: 100 }}>
                             {/* Kravis 820, */}
                             {/* Geffen 520,  */}
-                            Cooperman Commons, 5:30pm – 8:00pm
+                            6:00pm – 10:00pm
                           </h4>
                         </div>
 
@@ -435,19 +673,18 @@ const WeekCalendar = () => {
                           <a
                             target="_blank"
                             href="
-    https://www.eventbrite.com/e/consumer-privacy-in-media-global-regulation-and-medias-response-tickets-570857037767
+                            https://groups.gsb.columbia.edu/JBSA/rsvp_boot?id=42888
 "
                           >
-                            Consumer Privacy in Media: Global Regulation and
-                            Media's Response
+                         JBSA Presents: The Masquerade
                             <p style={{ fontStyle: "italic", fontWeight: 100 }}>
-                              by Digital Future Initiative
+                            by Jewish Business Students Association
                             </p>
                           </a>
 
                           <h4 style={{ fontWeight: 100 }}>
                             {/* Kravis 820, */}
-                            Geffen 620, 6:00pm – 7:30pm
+                       10:00pm – 2:00am
                           </h4>
                         </div>
 
@@ -516,17 +753,18 @@ const WeekCalendar = () => {
                         <a
                           target="_blank"
                           href="
-                          https://groups.gsb.columbia.edu/CBC/rsvp_boot?id=43701
+                          https://groups.gsb.columbia.edu/bbsa/rsvp_boot?id=39969
                           "
                         >
-                          1st Annual Future of Beauty Summit
+                     
+BBSA Elevate Conference 2023
                           <p style={{ fontStyle: "italic", fontWeight: 100 }}>
-                            by Columbia Beauty Club
+                          by Black Business Student Association
                           </p>
                         </a>
 
                         <h4 style={{ fontWeight: 100 }}>
-                          On Campus, 10:00am - 6:30pm (50+ registered)
+                          On Campus, 8:00am - 7:00pm (100+ registered)
                         </h4>
                       </div>
 
