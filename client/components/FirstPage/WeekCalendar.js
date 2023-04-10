@@ -83,7 +83,7 @@ const WeekCalendar = () => {
                             </a>
 
                             <h4 style={{ fontWeight: 100 }}>
-                              Geffen, 9:30pm – 6:30pm
+                              Geffen, 9:30am – 6:30pm
                             </h4>
                             <br />
                           </div>
